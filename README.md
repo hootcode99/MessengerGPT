@@ -17,6 +17,6 @@ I'm using fbchat to handle the Facebook login & GET/POST requests. Unfortunately
 This script leverages GPT-3.5 through the OpenAI Python API. One can simply make a developer account with OpenAI [here](https://platform.openai.com/) to recieve an API key. You receieve a generous amount of submission tokens for free. Since this was a toy project for my girlfriend, I figured she'd never use them up and that was the case. OpenAI API bots I've built in the past for things like Discord have run to the limit though. They will deplete quickly in a multi-user scenario, but you can pay for more. 
 
 ## A Fun Addition (for me)
-My girlfriend enjoyed talking to the bot. Talking to it on Facebook made simpler for her and made it feel more conversational. 
+My girlfriend enjoyed talking to the bot. Talking to it on Facebook made it more convenient for her and made it feel more conversational. It's always fun to see the uninitiated talk to GPT like it's a person :)
 
 However, I wanted to have a little fun myself. So I added a 'manual response mode' that, when activated, would forward her queries to my terminal and let me read and respond. It worked...well. I tried it a few times, had a few laughs, and then of course, debriefed her (don't want to be unethical). 
